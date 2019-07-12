@@ -1,4 +1,5 @@
 <!doctype html>
+<html lang="en-ca">
 
 <head>
   <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.15/angular.min.js"></script>
@@ -39,3 +40,4 @@ app.controller("tableCtrl", function($scope) {
 
 </script>
 </body>
+</html>
